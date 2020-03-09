@@ -1,0 +1,10 @@
+footer{
+    position: absolute;;
+
+    margin: auto;
+    background-color: lightgray;    
+    width: 100%;
+}
+footer h3{
+    text-align: center;
+}

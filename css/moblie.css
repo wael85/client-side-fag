@@ -1,0 +1,73 @@
+
+
+    @media  screen and (max-width :600px){
+        
+        .topcolumn{
+           display:none;
+         }
+        main{
+            width: 95%;
+            margin: auto;
+          
+        }
+        .navList{
+            padding: 0;
+            margin: 0;
+            justify-content: space-around;
+        }
+        .navLink{
+            font-size: 10px;
+        }
+
+        .topsection{
+            display:none;
+        }
+        .videoHead , .asideHead, .column-head{
+            font-size: small;
+        }
+        .midelsection{
+            display: block;
+            height: fit-content;
+        
+        }
+        .ifram-continer{
+            width: 100%;
+            height: fit-content;
+        }
+        .midel-text-continer h3{
+            font-size: x-small;
+        }
+        .midel-text-continer p{
+            font-size: x-small;
+        }
+
+        aside{
+            width: 100%;
+        }
+        .aside-game-text h3{
+            font-size:x-small;
+
+        }
+        .aside-game-text p{
+            font-size: x-small;
+
+        }
+        .butomsection{
+            flex-direction: column;
+            height: fit-content;
+
+        }
+        .bottom-column{
+            width: 100%;
+        }
+        .column-text-head{
+            font-size: x-small;
+        }
+        .column-text-body{
+            font-size: x-small;
+        }
+        footer h3{
+            font-size: x-small;
+        }
+
+    }
